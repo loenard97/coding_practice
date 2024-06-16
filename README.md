@@ -1,2 +1,3 @@
-# coding_practice
+# Coding Practice
+
 Various practice problems
